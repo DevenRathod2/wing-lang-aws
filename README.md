@@ -1,40 +1,4 @@
-<h1 align="center">Welcome to the Wing Language! :wave:</h1>
-<p align="center">
-  <a href="https://www.winglang.io/learn/">Take a Tour</a>
-  ▪︎
-  <a href="https://www.winglang.io/docs/">Getting Started</a>
-  ▪︎
-  <a href="http://t.winglang.io/slack">Join Slack</a>
-  ▪︎
-  <a href="https://www.winglang.io/docs/category/faq">FAQ</a>
-  ▪︎
-  <a href="https://www.winglang.io/contributing/status#roadmap">Roadmap</a>
-  ▪︎
-  <a href="https://github.com/winglang/wing/issues">Issues</a>
-  ▪︎
-  <a href="https://github.com/winglang/wing/discussions">Discussions</a>
-  ▪︎
-  <a href="https://www.winglang.io/contributing/">Contribute</a>
-</p>
 
-**Winglang** is a new open-source programming language designed for the cloud (aka "_cloud-oriented_").
-Wing enables developers to build distributed systems that leverage cloud services as first-class citizens by combining infrastructure **_and_** application code in a safe and unified programming model (aka "_cloud-oriented_").
-Wing programs can be executed locally (_yes, no internet required_) using a fully-functional simulator, or deployed to any cloud provider (_yes, Wing programs are portable across providers_).
-
-The mission of Winglang is to bring back your creative flow and close the gap between imagination and creation.
-
-Developing for the cloud today requires mastering various layers of cloud stack, IAM roles, networking, and numerous tools, along with finding creative ways to test and debug code. In addition, long deployment times hinder iteration cycles and take developers out of their creative flow.
-
-Winglang addresses these pains by letting you work at a higher level of abstraction and allowing you to focus on business logic instead of cloud mechanics, only surfacing low-level details when its needed.
-We also provide you with a set of tools that let you test your code locally, significantly faster than before.
-
-<p align="center">
-  <img src="./logo/demo.gif" alt="Wing Demo" height="360px">
-</p>
-
-Wing is built by [Elad Ben-Israel](https://github.com/eladb), the guy behind the [AWS CDK](https://github.com/aws/aws-cdk), the gang at the [Wing Cloud team](https://www.wing.cloud/) and an amazing [community](https://t.winglang.io/slack) of contributors (also known as Wingnuts).
-
-Click [here](https://www.youtube.com/watch?v=5_RhWwgGue0) to watch a short video introduction to the Wing language.
 
 ## Why do we think the cloud needs a programming language? 🤔
 
@@ -111,34 +75,6 @@ When you're ready to start building your own Wing apps, you'll need to:
 
 For a step-by-step guide, head over to our [Getting Started](https://www.winglang.io/docs/) guide.
 It's a once-in-a-lifetime adventure into the Wing rabbit hole!
-
-## FAQs ❓
-
-Here are some questions we're commonly asked that are covered by our [FAQ](https://www.winglang.io/docs/category/faq):
-
-- [Who is behind this project?](https://www.winglang.io/docs/faq/who-is-behind-wing)
-- [Which clouds are supported by Wing?](https://www.winglang.io/docs/faq/supported-clouds-services-and-engines/supported-clouds)
-- [Which provisioning engines are supported by Wing?](https://www.winglang.io/docs/faq/supported-clouds-services-and-engines/supported-provisioning-engines)
-
-## Community 💬
-
-Join our flock in the [Wing Slack](https://t.winglang.io/slack) community.
-We're here to help each other, answer questions, and share our cloud adventures.
-Alternatively, post any questions on [GitHub Discussions](https://github.com/winglang/wing/discussions).
-
-## Contributing 🤝
-
-Want to help Wing take flight?
-Check out our [contribution guide](https://github.com/winglang/wing/blob/main/CONTRIBUTING.md) to learn how to set up a development environment and contribute to the project.
-You can also get started by opening the project in GitHub Codespaces.
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/winglang/wing)
-
-We are incredibly grateful to our entire community for contributing bug fixes and improvements:
-
-<a href="https://github.com/winglang/wing/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=winglang/wing" />
-</a>
 
 ## License 📜
 
